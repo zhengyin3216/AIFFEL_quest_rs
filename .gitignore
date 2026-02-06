@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.txt
+*.tar.gz
+
+# Models
+*.pth
+
+# External libs
+Mecab-ko-for-Google-Colab/
+
+# Playground
+Playground/
+
